@@ -22,7 +22,7 @@
                         <div class="collapse navbar-collapse" id="collapsibleNavbar">
                                 <ul class="navbar-nav">
                                     <li class="nav-items">
-                                        <a class="nav-link" href="#">Link 1</a>
+                                        <a class="nav-link" href="<?php echo $raizN;?>modulos/paginas/venta.php">venta</a>
                                     </li>
                                     <li class="nav-items">
                                         <a class="nav-link" href="#">Link 2</a>
